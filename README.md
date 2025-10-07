@@ -14,7 +14,7 @@
 ####  3.3 python train.py --data garbage.yaml --weights yolov5s.pt --img 640
 
 ### 二、开始启动识别程序
-# 打开Arduino
+### 打开Arduino
 #### 1、将arduino程序烧录进Arduino开发板中
 #### 2、连上摄像头(也可使用电脑默认摄像头)与四个舵机
 #### 3、在项目文件夹终端上：
