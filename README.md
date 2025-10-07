@@ -1,6 +1,5 @@
-### -yolov5-Arduino-(heu大一学生水引导型立项的项目)
-极其简单地用yolov5与Arduino来进行垃圾分类任务，最适合想入门yolo的小白体质！
-几分钟教会从未学过yolo的小白完成一个最简单的yolo目标检测任务
+### 极其简单地用yolov5与Arduino来进行垃圾分类任务，最适合想入门yolo的小白体质！
+### 几分钟教会从未学过yolo的小白完成一个最简单的yolo目标检测任务
 
 数据集网盘下载：链接: https://pan.baidu.com/s/1Xk3x9Oi2txGenUMFX4n4vg?pwd=1234 提取码: 1234
 请在运行项目之前提前下载好合适的CUDA，若使用显卡请下载对应的驱动，当然也可以使用cpu进行训练
